@@ -1,7 +1,7 @@
 {
-    "name": "heroku",
-    "description": "heroku yes",
-    "keywords": ["heroku yes"],
+    "name": "js-webtest-updatede",
+    "description": "js-webtest-updatede",
+    "keywords": ["js-webtest-updatede"],
     "env": {
         "AA": {
             "description": "初阶用户只需填写App name后按需修改以下APASSWORD和AUUID两项后点击页面最后的Deploy app按钮即可开始部署",
